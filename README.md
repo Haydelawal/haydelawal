@@ -3,11 +3,7 @@
 <h1 align="center">Hi 👋, I'm Haydelawal 😎</h1>
 <h3 align="center">Senior Android Developer | Google Certified Playstore Lister, Cloud Architect & Security Engineer | 8+ Years Building Scalable, User-Centric Apps with Kotlin, KMM, and Google Cloud | Innovating with Cloud Technologies, Gen AI & Modern Android Architectures</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Haydelawal/image-utils/blob/main/images/image.jpg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haydelawal&label=Profile%20views&color=0e75b6&style=flat" alt="haydelawal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haydelawal" alt="haydelawal" /></a> </p>
 
 - 🔭 I’m currently working on **whatever sparks my interest**
 
